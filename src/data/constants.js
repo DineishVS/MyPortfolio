@@ -11,7 +11,7 @@ export const Bio = {
     "As a B.Tech Computer Science and Business System student, I combine technical prowess with a strategic mindset.",
   github: "https://github.com/DineishVS",
   resume:
-    "https://drive.google.com/file/d/1XNvr4G5Dz2LgbPt84n98nI6u1xPPsU0k/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1XmY4OK8TkD-5yZesCaKSErg1bHiQPr09/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/dineishvs/",
   
 };
